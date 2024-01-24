@@ -27,7 +27,7 @@ This is a basic RESTful API developed in Java using Spring Boot, JPA for persist
 
 5. **Test the API:**
    - You can use Postman or your software of choice to make requests to the API's endpoints.
-   - 
+
 ## Things I Learned
 
 Throughout the development of this simple RESTful API project, I gained valuable experience and insights. Here are some key takeaways:
